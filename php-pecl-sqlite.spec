@@ -1,5 +1,6 @@
 # TODO
 # - rm -rf libsqlite and build with system sqlite
+# - track if upstream decides to make release tarball https://bugs.php.net/bug.php?id=67135
 #
 # Conditional build:
 %bcond_without	tests		# build without tests
