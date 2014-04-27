@@ -1,6 +1,5 @@
 # TODO
 # - rm -rf libsqlite and build with system sqlite
-# http://www.mail-archive.com/internals@lists.php.net/msg47463.html
 #
 # Conditional build:
 %bcond_without	tests		# build without tests
